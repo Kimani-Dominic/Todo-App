@@ -1,0 +1,27 @@
+.Home {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    border: 1px solid #ece8e8;
+    padding: 10px;
+  }
+  h1 {
+    align-items: center;
+    font-style: italic;
+    font-size: 34px;
+  }
